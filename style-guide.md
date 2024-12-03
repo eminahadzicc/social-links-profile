@@ -31,3 +31,18 @@ The designs were created to the following widths:
 - Weights: 400, 600, 700
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
+
+  Jessica Randall
+  London, United Kingdom
+  "Front-end developer and avid reader."
+
+  GitHub
+  Frontend Mentor
+  LinkedIn
+  Twitter
+  Instagram
+
+    <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
